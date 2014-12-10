@@ -15,16 +15,26 @@ Thank you for your interest in a developer position at the Ministry of Justice D
 - The page should conform to the Government Service Design Manual standards for [desktop browser support](https://www.gov.uk/service-manual/user-centred-design/browsers-and-devices.html#desktop)
 - You may use any techniques and technologies you feel are suitable
 - If you use any form of pre-processor or task runner please package these files with your code
-- Use a HTML5 doctype and use HTML5 elements where appropriate
+- Use a HTML5 doctype and use HTML5 capabilities where appropriate
 - You may use a JavaScript framework, for example jQuery, but please do not use any third party plugins
 - An annotated version of the page with style details has also been included: `form-annotated.png`
-- All fields are required for the validation
+- See validation table for rules to use for validation
 - Try to limit the amount of time you spend on the test to 2 hours
 
-### Design
+## Validation rules
+
+| Field             | Rule(s)                |
+| ----------------- | ---------------------- |
+| Title             | Required               |
+| First name        | Required               |
+| Last name         | Required               |
+| Date of birth     | Optional, Valid date   |
+| Gender            | Required               |
+
+## Design
 
 ![form](form.png)
 
-### Annotated Design
+## Annotated Design
 
 ![annotated](form-annotated.png)
