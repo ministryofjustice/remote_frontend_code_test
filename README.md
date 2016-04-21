@@ -1,5 +1,7 @@
 # Frontend Developer Test
 
+# *DEPRECATED. Use [code_tests](https://github.com/ministryofjustice/code_tests) instead.*
+
 ## Intro
 
 Thank you for your interest in a developer position at the Ministry of Justice Digital Services team. As part of our recruitment process, we ask that you complete a short code test. Please use any industry standards, best practices, performance tips and code style that you support.
